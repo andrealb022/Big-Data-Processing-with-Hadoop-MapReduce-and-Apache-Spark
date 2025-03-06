@@ -1,0 +1,1 @@
+.sh files create outputs in the results folder.
